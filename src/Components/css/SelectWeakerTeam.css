@@ -1,0 +1,20 @@
+Select{
+    border-radius: 50px;
+    color: blueviolet;
+    background-color: orange;
+    width: 150px;
+    height: 20px;
+    margin-left: 630px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    
+  }
+
+  h1{
+    color: azure;
+  }
+  
+  h2{
+  color: gray;
+  }

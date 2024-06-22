@@ -1,0 +1,18 @@
+Button{
+    background-color: blue;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: monospace;
+    color: white;
+    padding: 20px;
+    margin-left: 10px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 620px;
+    margin-top: 30px;
+    
+}
+
+
+
